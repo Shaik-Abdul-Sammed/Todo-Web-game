@@ -1,5 +1,5 @@
 
-# ✅ Task 4 :- To-do – Web Game 
+#  To-do – Web Game 
 
 Welcome to the Smart To-Do web application repository! This is a dynamic, browser-based task manager built with HTML, CSS, and JavaScript, designed to improve productivity and time management. The app features task scheduling, reminders, real-time countdowns, and a polished UI—built entirely on the frontend, without any backend or external database.
 
